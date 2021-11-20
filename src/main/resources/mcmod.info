@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "OZMT_Blades",
+    "name": "OZMT_Blades",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
